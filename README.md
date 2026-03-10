@@ -1,6 +1,6 @@
-#Reto-ODS4-Sergio
+# Reto-ODS4-Sergio
 ---
-##Diagnóstico
+## Diagnóstico
 Algunos de los **errores** que hemos encontrado en el sistema educativo son los siguientes
 
 - Los resultados de todo el año academico dependen plenamente de *los R.As*
@@ -13,8 +13,8 @@ Algunos de los **errores** que hemos encontrado en el sistema educativo son los 
 
 - Los examenes estan mal planteados, provocando que los alumnos acabe sacando peores notas
 
-##Solución
+## Solución
 
-##Prototipo
+## Prototipo
 :![Prototipo de web](./imagenes/prototipo.png):
 ##Impacto sostenible
