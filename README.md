@@ -16,5 +16,5 @@ Algunos de los **errores** que hemos encontrado en el sistema educativo son los 
 ## Solución
 
 ## Prototipo
-:![Prototipo de web](./imagenes/prototipo.png):
+![Prototipo de web](./imagenes/prototipo.png)
 ##Impacto sostenible
